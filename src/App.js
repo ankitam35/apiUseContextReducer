@@ -3,7 +3,7 @@ import MyComponent from "./MyComponent";
 import StopWatch from "./StopWatch";
 
 function App() {
-  return <StopWatch />;
+  return <MyComponent />;
 }
 
 export default App;
